@@ -1,2 +1,2 @@
 # BasicTetris
-Basic Javascript Tetris, just for fun
+Basic Javascript Tetris, just for fun.
